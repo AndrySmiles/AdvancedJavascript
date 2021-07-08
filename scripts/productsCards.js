@@ -8,7 +8,7 @@ if (window.location.href.indexOf("product") > 0) {
     products.length = 3;
 } else if (window.location.href.indexOf("catalog") > 0) {
     products.length = 9;
-} else if (window.location.href.indexOf("index") > 0) {
+} else {
     products.length = 6;
 }
 
