@@ -24,7 +24,7 @@ const getProductMarkup = (product) => {
 
 const insertProductsIntoPage = (list = products) => {
     let productsMarkup = list.map(
-        product => getProductMarkup(product)
+        item => getProductMarkup(item)
     ).join('');
 
     featuredItemsEl.insertAdjacentHTML('afterbegin', productsMarkup);
