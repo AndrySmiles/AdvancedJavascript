@@ -4,6 +4,14 @@ const pathToImages = 'img';
 const pathToProductsImages = `${pathToImages}/products`;
 const featuredItemsEl = document.querySelector('.featuredItems');
 
+if (window.location.href.indexOf("product") > 0) {
+    products.length = 3;
+} else if (window.location.href.indexOf("catalog") > 0) {
+    products.length = 9;
+} else if (window.location.href.indexOf("index") > 0) {
+    products.length = 6;
+}
+
 const getProductMarkup = (product) => {
     return `   
     <div class="card card__box__link" onclick="location.href='product.html';">

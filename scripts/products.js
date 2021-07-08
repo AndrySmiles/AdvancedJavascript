@@ -43,4 +43,25 @@ const products = [
         'Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.',
         12.55,
     ),
+    new ProductDTO(
+        6,
+        'card_7.png',
+        'Product 7',
+        'In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.',
+        22.39,
+    ),
+    new ProductDTO(
+        7,
+        'card_8.png',
+        'Product 8',
+        'Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.',
+        92.99,
+    ),
+    new ProductDTO(
+        8,
+        'card_9.png',
+        'Product 9',
+        'Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.',
+        12.55,
+    ),
 ];
