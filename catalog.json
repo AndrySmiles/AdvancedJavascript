@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "image": "card_1.png",
+    "name": "Синяя куртка",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+    "price": 52.22,
+    "color": "Red",
+    "size": "XL"
+  },
+  {
+    "id": 1,
+    "image": "card_2.png",
+    "name": "Шпильки",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+    "price": 50,
+    "color": "Blue",
+    "size": "XL"
+  },
+  {
+    "id": 2,
+    "image": "card_3.png",
+    "name": "Шорты",
+    "description": "Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+    "price": 82.22,
+    "color": "Blue",
+    "size": "XL"
+  },
+  {
+    "id": 3,
+    "image": "card_4.png",
+    "name": "Брюки",
+    "description": "In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.",
+    "price": 82,
+    "color": "Blue",
+    "size": "XL"
+  },
+  {
+    "id": 4,
+    "image": "card_5.png",
+    "name": "Пиджак",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+    "price": 50,
+    "color": "Blue",
+    "size": "XXL"
+  },
+  {
+    "id": 5,
+    "image": "card_6.png",
+    "name": "Блузка",
+    "description": "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.",
+    "price": 50,
+    "color": "Blue",
+    "size": "ML"
+  },
+  {
+    "id": 6,
+    "image": "card_7.png",
+    "name": "Бордовая куртка",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+    "price": 60,
+    "color": "Blue",
+    "size": "ML"
+  },
+  {
+    "id": 7,
+    "image": "card_8.png",
+    "name": "Футболка",
+    "description": "In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.",
+    "price": 50,
+    "color": "Blue",
+    "size": "ML"
+  },
+  {
+    "id": 8,
+    "image": "card_9.png",
+    "name": "Кепка",
+    "description": "In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.",
+    "price": 50,
+    "color": "Blue",
+    "size": "ML"
+  }
+]
